@@ -25,8 +25,8 @@ module.exports = {
         needComments: true,
         // 其他的 Vssue 配置
         autoCreateIssue: true,
-        clientId: "5429ad6f417b1f149a0f",
-        clientSecret: "ea3f9361046efe0af7bccd9e5b6789cebcb6b52c",
+        clientId: "98a82fcf75f9ecde1a46",
+        clientSecret: "b1e96fbf80d03fda52d22ec1b41fd0260481d143",
         owner: "eryajf",
         repo: "w-notes",
       },
